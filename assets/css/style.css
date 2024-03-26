@@ -90,11 +90,11 @@ th {
     display: inline-block;
     text-align: center;
 }
-
+/* the text within the "service" class is set to align center but on the page it looks slightly uncentered. I tried fixing it but i couldn't figure out why it was aligned a bit towards the right as compared to the rest of the text on the page*/
 ul {
     list-style-type: none;
 }
 
-.current a {
+.current {
     background-color: palegreen;
 }
